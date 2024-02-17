@@ -1,0 +1,7 @@
+Free Chess - cc-by-nd 2001-2014, Jorge Pardo Serrano
+Este juego se encuentra bajo licencia Creative Commons cc-by-nd. Por lo tanto puede puede ser distribuido libremente pero sin modificar ninguna de sus partes y haciendo referencia a su autor y su website:
+Autor: Jorge Pardo Serrano
+Website: http://www.pardolabs.com
+
+La música de este juego pertenece a Bernd Krueger con licencia Creative Commons cc-by-sa.
+Ha sido obtenida desde su página web oficial http://www.piano-midi.de y puede ser distribuida libremente haciendo referencia a su autor y su página web.

@@ -1,0 +1,82 @@
+Free Chess v2.0.4
+(ESPAÑOL)
+
+NOTAS DE LICENCIA
+------------------
+
+Free Chess - cc-by-nd 2001-2015, Jorge Pardo Serrano
+Este juego está licenciado bajo cc-by-nd. Por lo tanto puede puede ser distribuido libremente pero sin modificar ninguna de sus partes y haciendo referencia a su autor y su website:
+Autor: Jorge Pardo Serrano
+Website: http://www.pardolabs.com
+
+La música de este juego pertenece a Bernd Krueger y está licenciada bajo cc-by-sa.
+Ha sido obtenida desde su página web oficial http://www.piano-midi.de y puede ser distribuida libremente haciendo referencia a su autor y su página web.
+
+
+REQUISITOS
+----------
+
+- Microsoft Windows XP o superior
+- DirectX 8 o superior
+- Pentium 3 o superior
+- Tarjeta Gráfica con 8 MBs mínimo
+
+
+CAMBIOS
+-------
+*) 2.0.4
+- Corregido bug que permitía hacer enroque estando en jaque
+
+*) 2.0.3
+- Corregidos varios errores menores referentes a la IA
+
+*) 2.0.2
+- Corregido problema con resoluciones de 1920x1200 y 2560×1600
+- Corregido problema al grabar partidas cuando el juego está instalado en Archivos de Programa
+- Corregido problema cuando está activo Avast Deepscreen
+
+*) 2.0.1
+- Corregido problema en Windows XP
+
+*) 2.0.0
+- Nuevos gráficos en alta resolución
+- Soporte para procesadores multicore
+- Sistema de aperturas renovado
+- Corregido error al salir del juego
+- Corregido problema al minimizar el juego
+
+*) 1.2.1
+
+- Nuevo instalador con opción de instalación estándar y portable
+- Actualizados datos de contacto
+
+*) 1.2.0
+
+- Motor de juego completamente nuevo, mucho más rápido
+- Añadida opción de grabar y cargar partida
+- Añadida posibilidad de deshacer movimientos
+- Resueltos varios bugs
+
+*) 1.1.2
+
+- Añadidos idiomas Catalán y Euskera
+- Respuesta de la máquina ligeramente más rápida
+
+*) 1.1.1
+
+- Resuelto problema en el juego por Internet
+
+*) 1.1
+
+- Añadidos más tipos de finales en tablas
+- Solucionados algunos bugs en la IA
+- Resuelto problema de compatibilidad con algunas tarjetas gráficas
+
+
+CONTACTO
+--------
+
+Para cualquier duda o sugerencia escribir a:
+jorparse@hotmail.com
+
+http://www.pardolabs.com
